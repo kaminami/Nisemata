@@ -6,7 +6,7 @@ A tiny generative sequencer.
 
 ```
 cd static
-./python -m SimpleHTTPServer 8080
+python -m SimpleHTTPServer 8080
 ```
 
 Open in browser [http://localhost:8080](http://localhost:8080)
@@ -26,5 +26,9 @@ Open in browser [http://localhost:8080](http://localhost:8080)
  * https://github.com/goldfire/howler.js
 * midi-js-soundfonts
  * https://github.com/gleitz/midi-js-soundfonts
-* fabricjs 
+* fabricjs
  * http://fabricjs.com/
+
+
+## License
+MIT
