@@ -1,5 +1,6 @@
 # Nisemata
 A tiny generative sequencer.
+[DEMO](http://squeak.sakura.ne.jp/etc/Nisemata/)
 
 
 ## Usage
